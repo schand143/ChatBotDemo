@@ -1,2 +1,3 @@
 # ChatBotDemo
-Java Chat Bot
+Simple Java Chat Bot
+
